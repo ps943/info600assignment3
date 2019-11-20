@@ -11,6 +11,18 @@
             "id": "42",
             "major": "Computer Science",
             "startYear": 2012
+        },
+        {
+            "fullName": "Andrew Michales",
+            "id": "38a8ca",
+            "major": "Computer science",
+            "startYear": 2018
+        },
+        {
+            "fullName": "Carlos",
+            "id": "5d9842",
+            "major": "GG",
+            "startYear": 2019
         }
     ]
 }
